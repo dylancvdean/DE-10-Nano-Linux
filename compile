@@ -1,4 +1,3 @@
-source poky/oe-init-build-env ./build
 cd build
 bitbake virtual/bootloader
 bitbake virtual/kernel
